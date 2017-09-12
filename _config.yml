@@ -21,7 +21,7 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://www.superrockgames.com
 author:
   name:
-  twitter: @superrockgames
+  twitter: superrockgames
   picture: 
 twitter_username: superrockgames
 github_username:
