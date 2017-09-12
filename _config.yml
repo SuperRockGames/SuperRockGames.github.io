@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Super Rock Games
+title: SUPER ROCK GAMES
 email: contact@superrockgames.com
 description: Indie game developer 
 baseurl: # the optional subpath of your site, e.g. "/blog"
