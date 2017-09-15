@@ -20,7 +20,7 @@ description: Indie game developer
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://www.superrockgames.com
 author:
-  name:
+  name: Super Rock Games
   twitter: superrockgames
   picture: /assets/logo-company2.png
 twitter_username: superrockgames
