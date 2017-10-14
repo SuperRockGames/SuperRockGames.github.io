@@ -2,16 +2,10 @@
 title: "Pixel Soccer"
 layout: about
 ---
-
-<h1>Pixel Soccer</h1>
-
-
-
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/H47IjiQBbeY" frameborder="0"></iframe>
 </div>
-
 
 
 <h2>What is Pixel Soccer?</h2>
@@ -23,11 +17,18 @@ Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals a
 <h2>Features</h2>
 
 <ul>
-<li>Over 18 of the world's top leagues( ...with many more to be added ).</li>
+<li>Many of the world's top leagues.</li>
 <li>Playable national teams and competitions.</li>
 <li>Full career mode with promotions, relegations and transfers.</li>
-<li>Animated pixel versions of many of the worlds famous players.</li>
-<li>Accurate pixel team kit designs.</li>
-<li>Editor to create your own kits, leagues, teams or players.</li>
+<li>Gamepad and keyboard controls.</li>  
+<li>Competition editor.</li>
+<li>Team editor.</li>
+<li>Player editor.</li>
+<li>Kit editor.</li>
 <li>Attribute system for players to differentiate abilities and affect performance.</li>
 </ul>
+
+<h2>Steam</h2>
+Pixel Soccer is coming soon to Steam!
+Check the Steam store page <a href="http://store.steampowered.com/app/347700/Pixel_Soccer" title="Coming Soon To Steam"><h2>here</h2></a>
+
