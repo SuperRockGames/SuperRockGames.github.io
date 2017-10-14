@@ -30,5 +30,5 @@ Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals a
 
 <h2>Steam</h2>
 Pixel Soccer is coming soon to Steam!
-Check the Steam store page <a href="http://store.steampowered.com/app/347700/Pixel_Soccer" title="Coming Soon To Steam"><h2>here</h2></a>
+Check the Steam store page <a href="http://store.steampowered.com/app/347700/Pixel_Soccer" title="Coming Soon To Steam">here</a>
 
