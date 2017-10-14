@@ -18,11 +18,11 @@ Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals a
 ##Features
 
 <ul>
-<li>Over 18 of the world's top leagues( ...with many more to be added ).
-<li>Playable national teams and competitions.
-<li>Full career mode with promotions, relegations and transfers.
-<li>Animated pixel versions of many of the worlds famous players.
-<li>Accurate pixel team kit designs.
-<li>Editor to create your own kits, leagues, teams or players.
-<li>Attribute system for players to differentiate abilities and affect performance.
+<li>Over 18 of the world's top leagues( ...with many more to be added ).</li>
+<li>Playable national teams and competitions.</li>
+<li>Full career mode with promotions, relegations and transfers.</li>
+<li>Animated pixel versions of many of the worlds famous players.</li>
+<li>Accurate pixel team kit designs.</li>
+<li>Editor to create your own kits, leagues, teams or players.</li>
+<li>Attribute system for players to differentiate abilities and affect performance.</li>
 </ul>
