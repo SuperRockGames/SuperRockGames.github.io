@@ -1,9 +1,10 @@
 ---
 title: "Pixel Soccer"
-layout: default
+layout: about
 ---
 
-#Pixel Soccer 
+<h1>Pixel Soccer</h1>
+
 
 
 <!-- 16:9 aspect ratio -->
@@ -13,11 +14,13 @@ layout: default
 
 
 
-##What is Pixel Soccer?
+<h2>What is Pixel Soccer?</h2>
+
 
 Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals and win trophies in this fun pixel art soccer game inspired by Sensible Soccer, Kick Off and Goal. The game is currently in early alpha, meaning that some features are not finished yet while others have yet to be implemented. 
 
-##Features
+
+<h2>Features</h2>
 
 <ul>
 <li>Over 18 of the world's top leagues( ...with many more to be added ).</li>
