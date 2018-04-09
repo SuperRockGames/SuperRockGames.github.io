@@ -1,36 +1,29 @@
 ---
-title: "Pixel Soccer"
+title: "The Football Playbook"
 layout: about
 ---
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/H47IjiQBbeY" frameborder="0"></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/kzNKmCPr03Y" frameborder="0"></iframe>
 </div>
 
+<h2>The Football Playbook</h2>
 
-<h2>What is Pixel Soccer?</h2>
-
-
-Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals and win trophies in this fun pixel art soccer game inspired by Sensible Soccer, Kick Off and Goal. The game is currently in early alpha, meaning that some features are not finished yet while others have yet to be implemented. 
-
+The Football Playbook is a simple yet addictive tactical football game made up of a collection of individual tactical puzzles. In each puzzle you are presented with a snapshot of a football match. To successfully complete the puzzle you must score a goal. Use a combination of timing, movement and key passes to get your players into a scoring position.
 
 <h2>Features</h2>
 
 <ul>
-<li>Many of the world's top leagues.</li>
-<li>Playable national teams and competitions.</li>
-<li>Full career mode with promotions, relegations and transfers.</li>
-<li>Gamepad and keyboard controls.</li>  
-<li>Competition editor.</li>
-<li>Team editor.</li>
-<li>Player editor.</li>
-<li>Kit editor.</li>
-<li>Attribute system for players to differentiate abilities and affect performance.</li>
+<li>Over 200 unique puzzles.</li>
+<li>Innovative control mechanism and game mechanic.</li>
+<li>Challenging and Addictive Game-play.</li>
+<li>Top down view of entire pitch.</li>  
+<li>Complete control of all your players movements.</li>
+<li>Ability to create and exploit space anywhere on the pitch.</li>
+<li>Battle against different formations and defensive strategies.</li>
+<li>Complete seasons and earn badges.</li>
+<li>Action takes place on a full pitch, 11 v 10.</li>
 </ul>
 
-<h2>Steam</h2>
-Pixel Soccer is coming soon to Steam!
-Check the Steam store page <a href="http://store.steampowered.com/app/347700/Pixel_Soccer" title="Coming Soon To Steam">here</a>
-
-<h2>Shop</h2>
-Check out the Pixel Soccer Shop for player stickers! <a href="https://www.redbubble.com/people/scoreline/works/29572992-pixel-soccer-italy-division-1?asc=u&p=sticker" title="Pixel Soccer Shop">here</a>
+<h2>Download</h2>
+You download The Football Playbook from the iOS App Store <a href="https://itunes.apple.com/gb/app/football-playbook-tactical/id635870823" title="">here</a>.
