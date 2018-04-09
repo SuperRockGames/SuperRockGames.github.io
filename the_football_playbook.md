@@ -26,4 +26,4 @@ The Football Playbook is a simple yet addictive tactical football game made up o
 </ul>
 
 <h2>Download</h2>
-You download The Football Playbook from the iOS App Store <a href="https://itunes.apple.com/gb/app/football-playbook-tactical/id635870823" title="">here</a>.
+You download The Football Playbook from the <a href="https://itunes.apple.com/gb/app/football-playbook-tactical/id635870823" title="">iOS App Store</a>.
