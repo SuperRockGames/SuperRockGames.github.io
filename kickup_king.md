@@ -1,36 +1,30 @@
 ---
-title: "Pixel Soccer"
+title: "KickUp King"
 layout: about
 ---
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/H47IjiQBbeY" frameborder="0"></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/dmhVtaKuhgM" frameborder="0"></iframe>
 </div>
 
+<h2>KickUp King</h2>
 
-<h2>What is Pixel Soccer?</h2>
-
-
-Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals and win trophies in this fun pixel art soccer game inspired by Sensible Soccer, Kick Off and Goal. The game is currently in early alpha, meaning that some features are not finished yet while others have yet to be implemented. 
-
+KickUp King, is a fun 8bit style kickup game where you try to keep the ball in the air. Try to complete combos and score points while avoiding obstacles. 
 
 <h2>Features</h2>
 
 <ul>
-<li>Many of the world's top leagues.</li>
-<li>Playable national teams and competitions.</li>
-<li>Full career mode with promotions, relegations and transfers.</li>
-<li>Gamepad and keyboard controls.</li>  
-<li>Competition editor.</li>
-<li>Team editor.</li>
+<li>6 players to choose.</li>
+<li>4 different game modes - Pro, Amateur, Points Rush and Time Trial.</li>
+<li>Not just kickups! 8 different movements including headers, kneeups, and sidekicks.</li>
+<li>Score points and complete combos.</li>  
+<li>Easy to learn tap and swipe controls.</li>
+<li>Challenging and Addictive Game-play.</li>
 <li>Player editor.</li>
-<li>Kit editor.</li>
-<li>Attribute system for players to differentiate abilities and affect performance.</li>
+<li>Game Centre leader-boards.</li>
+<li>Universal iOS App.</li>
 </ul>
 
-<h2>Steam</h2>
-Pixel Soccer is coming soon to Steam!
-Check the Steam store page <a href="http://store.steampowered.com/app/347700/Pixel_Soccer" title="Coming Soon To Steam">here</a>
+<h2>Download</h2>
+You can download KickUp King on the <a href="https://itunes.apple.com/gb/app/kickup-king/id918853912?mt=8" title="">iOS App Store</a>.
 
-<h2>Shop</h2>
-Check out the Pixel Soccer Shop for player stickers! <a href="https://www.redbubble.com/people/scoreline/works/29572992-pixel-soccer-italy-division-1?asc=u&p=sticker" title="Pixel Soccer Shop">here</a>
