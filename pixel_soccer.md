@@ -25,3 +25,5 @@ If you would like to donate towards development costs you can here.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+[![paypal](https://www.paypalobjects.com/en_GB/i/scr/pixel.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GYU2AZWBW27SG)
+
