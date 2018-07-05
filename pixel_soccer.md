@@ -7,13 +7,8 @@ layout: about
 Pixel Soccer is a top down, pixel art, soccer game for PC and Mac. Score goals and win trophies in this fun pixel art soccer game inspired by Sensible Soccer, Kick Off and Goal. The game is currently in early alpha, meaning that some features are not finished yet while others have yet to be implemented. 
 
 <h2>Development</h2>
-Pixel Soccer is currently a hobby project. You will find updates posted below as development progresses.
-
-<h2>Updates</h2>
-04/07/2018 - development started.
-
-<h2>Latest Version</h2>
-coming soonish
+Pixel Soccer is currently a hobby project. You will find updates and the latest version posted here 
+[https://superrockgames.itch.io/pixelsoccer](https://superrockgames.itch.io/pixelsoccer)
 
 <h2>Donations</h2>
 If you would like to donate towards development costs you can here. 
