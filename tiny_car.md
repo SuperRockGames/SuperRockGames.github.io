@@ -15,7 +15,9 @@ Touch and hold to stop your car. Release to go.
 
 AVOID. OTHER. CARS.!!!!
 
+<!--
 <h2>Download</h2>
 You can download Tiny Car on the <a href="https://itunes.apple.com/gb/app/tiny-car-endless-traffic-crosser/id955324725?mt=8" title="">iOS App Store</a>.
+-->
 
 
