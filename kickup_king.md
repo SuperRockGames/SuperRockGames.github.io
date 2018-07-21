@@ -25,6 +25,8 @@ KickUp King, is a fun 8bit style kickup game where you try to keep the ball in t
 <li>Universal iOS App.</li>
 </ul>
 
+<!--
 <h2>Download</h2>
 You can download KickUp King on the <a href="https://itunes.apple.com/gb/app/kickup-king/id918853912?mt=8" title="">iOS App Store</a>.
+-->
 
